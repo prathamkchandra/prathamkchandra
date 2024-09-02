@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development and AI 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me at prathamkchandra@gmail.com
+- 📫 How to reach me ?
+- ->> prathamkchandra@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:Not a bot!😆
 
