@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rideshare**
 
-- 🌱 currently learning ReactJS **React,Bootstrap**
+- 🌱 currently learning **ReactJS ,Bootstrap**
 
 - 👯 I’m looking to collaborate on **open source**
 
