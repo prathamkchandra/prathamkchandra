@@ -1,3 +1,5 @@
+<img src="assets/images/github b.png" alt="" border-radius="2px">
+
 <h1 align="center">Hi 👋, I'm Pratham k</h1>
 <h3 align="center">A passionate computer science student</h3>
 
