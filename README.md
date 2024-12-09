@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://github.com/DhyanTD/DhyanTD/raw/main/assets/images/1.png)]
 <h1 align="center">Hi 👋, I'm Pratham k</h1>
 <h3 align="center">A passionate computer science student</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.webp">
