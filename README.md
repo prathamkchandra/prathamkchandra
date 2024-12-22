@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Rideshare**
 
-- 🌱 currently learning ReactJS **React,Bootstrap**
+- 🌱 currently learning **ReactJS,Javascript,Bootstrap**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **C++,ReactJS,Javascript**
 
 - 📫 How to reach me **prathamkchandra@gmail.com**
 
