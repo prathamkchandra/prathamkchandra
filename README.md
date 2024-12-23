@@ -1,17 +1,16 @@
 ![MasterHead](https://github.com/DhyanTD/DhyanTD/raw/main/assets/images/1.png)
 <h1 align="center">Hi 👋, I'm Pratham k</h1>
 <h3 align="center">A passionate computer science student</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkchandra&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkchandra" /> </p>
 
 - 🔭 I’m currently working on **Rideshare**
 
-- 🌱 currently learning **ReactJS,Javascript,Bootstrap**
+- 🌱 currently learning ReactJS **React,Bootstrap**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 💬 Ask me about **C++,ReactJS,Javascript**
+- 💬 Ask me about **React,Javascript**
 
 - 📫 How to reach me **prathamkchandra@gmail.com**
 
