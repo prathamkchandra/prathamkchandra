@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently an **CSE Undergraduate**
 
-- 🌱 currently learning ReactJS **React,Bootstrap**
+- 🌱 currently learning ReactJS **React**
 
 - 👯 I’m looking to collaborate on **open source**
 
