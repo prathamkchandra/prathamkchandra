@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkchandra&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkchandra" /> </p>
 
-- 🔭 I’m currently working on **Rideshare**
-
-- 🌱 currently learning ReactJS **React,NEXT.js**
+- 🌱 currently learning **React,NEXT.js,Frameworks**
 
 - 👯 I’m looking to collaborate on **open source**
 
