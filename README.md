@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/DhyanTD/DhyanTD/raw/main/assets/images/1.png)
-<h1 align="center">Hi 👋, I'm Pratham k </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamkchandra&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkchandra" /> </p>
-<h3 align="center">A passionate Web developer</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamkchandra&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkchandra" /> </p>
+<h1 align="center">Hi 👋, I'm Pratham K<br>A passionate Web developer</h1>
 
 - 🌱 currently learning **React,NEXT.js,Frameworks**
 
