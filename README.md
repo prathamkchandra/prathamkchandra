@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/DhyanTD/DhyanTD/raw/main/assets/images/1.png)
+<img src="https://github.com/DhyanTD/DhyanTD/raw/main/assets/images/1.png" alt="MasterHead" style="width: 100%; height: auto; max-height: 800px;" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamkchandra&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkchandra" /> </p>
 <h1 align="center">Hi 👋, I'm Pratham K<br>A passionate Web developer</h1>
 
