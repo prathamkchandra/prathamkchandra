@@ -26,4 +26,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamkchandra&show_icons=true&locale=en" alt="prathamkchandra" /></p>
 
+<div align="center">
+  
+![snake gif](https://github.com/prathamkchandra/prathamkchandra/blob/output/github-snake-dark.svg)
+
+</div>
 
