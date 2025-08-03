@@ -4,7 +4,7 @@
 
 <h3>🚀 About Me</h3>
 
-🌱 I’m currently diving deep into React and Next.js, and exploring modern web frameworks.
+🌱 I’m currently diving deep into React.js and Next.js, and exploring modern web frameworks ad technologies.
 
 👯 I’m actively looking to collaborate on exciting open-source projects.
 
