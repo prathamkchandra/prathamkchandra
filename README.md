@@ -1,16 +1,27 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamkchandra&label=Profile%20views&color=0e75b6&style=flat" alt="prathamkchandra" /> </p>
-<h1 align="center">Hey there!👋<br>I'm a passionate Web developer</h1>
+<h1 align="center">Hey there! <br>I'm Pratham, a Full Stack Developer</h1>
+<p align="center">React · Next.js · Node.js · PostgreSQL · API Testing</p>
 
-<h3>🚀 About Me</h3>
+<h3> About Me</h3>
 
-🌱 I’m currently diving deep into React.js and Next.js, and exploring modern web frameworks ad technologies.
+ Computer Science graduate (B.E., 2026) from Karnataka, India.
 
-👯 I’m actively looking to collaborate on exciting open-source projects.
+ Certified in Full Stack Web Development(MERN), Software Testing (NPTEL) and trained in API testing with Postman (NITK Surathkal).
 
-📫 You can reach me via email at prathamkchandra@gmail.com.
+ Currently deepening my skills in React.js, Next.js, and TypeScript.
 
-⚡ Fun fact: I can prove I'm not a bot...!
+ Open to fresher roles in IT, QA, and technical consulting, and happy to collaborate on open-source projects.
+
+ Reach me at <a href="mailto:prathamkchandra@gmail.com">prathamkchandra@gmail.com</a>
+
+<h3> Featured Projects</h3>
+
+🔹 <a href="https://github.com/prathamkchandra/Road-Track">Road Track</a>: tourism marketplace for the Udupi region, built for a real client (<a href="https://www.roadstrack.com/">live site</a>)<br>
+🔹 <a href="https://github.com/prathamkchandra/Excali_Dup">Work Board</a>: Excalidraw-inspired digital whiteboard (Next.js, TypeScript, HTML5 Canvas)<br>
+🔹 <a href="https://github.com/prathamkchandra/screen-recorder">Screen Recorder</a>: screen recording and video sharing platform with AI transcripts<br>
+🔹 <a href="https://github.com/prathamkchandra/AI-Music-plagiarism-detection">AI Music Plagiarism Detection</a>: melody analysis using spectrograms (Python)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham k chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham k chandra" height="30" width="40" /></a>
